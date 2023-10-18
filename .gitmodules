@@ -19,3 +19,9 @@
 [submodule "ChessIA-OpenGL"]
 	path = ChessIA-OpenGL
 	url = https://github.com/IAmVictorG/ChessIA-OpenGL.git
+[submodule "ChessAlgoInLessThan1200Words"]
+	path = ChessAlgoInLessThan1200Words
+	url = https://github.com/IAmVictorG/ChessAlgoInLessThan1200Words.git
+[submodule "Tic-Tac-Toe-Website"]
+	path = Tic-Tac-Toe-Website
+	url = https://github.com/IAmVictorG/Tic-Tac-Toe-Website.git
